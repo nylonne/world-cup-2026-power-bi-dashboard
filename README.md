@@ -32,3 +32,7 @@ World cup project/
 3. Refresh the model after updating a source workbook. If a source path was changed outside this structure, update the corresponding Power Query source before refreshing.
 
 See [SETUP.md](SETUP.md) for installation and development instructions, and [TECHNICAL.md](TECHNICAL.md) for the data model and implementation notes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Reuse is permitted provided the copyright and license notice crediting Nylonne is retained in copies or substantial portions of the software.
