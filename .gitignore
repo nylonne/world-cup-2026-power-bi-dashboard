@@ -1,0 +1,15 @@
+# Local Power BI compatibility path retained while an existing session is open
+/project.pbix
+
+# Office temporary files
+~$*.xlsx
+~$*.pbix
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter and Colab working files
+.ipynb_checkpoints/
+

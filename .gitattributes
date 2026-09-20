@@ -1,0 +1,4 @@
+# Keep binary report and workbook files out of line-ending and merge processing.
+*.pbix binary
+*.xlsx binary
+
